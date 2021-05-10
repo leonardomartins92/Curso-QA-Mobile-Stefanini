@@ -4,6 +4,7 @@ Recursos Utilizados:
 - Eclipse IDE;
 - Maven;
 - Cucumber;
+- Gherkin;
 - Appium;
 - Vysor.
 
